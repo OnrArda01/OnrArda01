@@ -1,16 +1,16 @@
-### Hi there 👋
+### 📛 Hello I'm ASOO 
+[![GitHub ASOOjs](https://img.shields.io/github/followers/ASOOjs)](https://github.com/ASOOjs)&nbsp; 
+![profile count](https://komarev.com/ghpvc/?username=ASOOjs&color=blue)&nbsp;
 
-<!--
-**ASOOjs/ASOOjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 &nbsp;Software Languages 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
+[![GitHub ASOOjs](https://img.shields.io/github/followers/ASOOjs?label=follow&style=social)](https://github.com/ASOOjs)&nbsp;
 
-Here are some ideas to get you started:
+### 🌟 Official Discord Account 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/621404511218565121 )](https://discord.com/users/621404511218565121)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Official Account 
+<a href="https://instagram.com/onr_ardaa"><img src="https://img.shields.io/badge/onr_ardaa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://open.spotify.com/user/0eg0r3cyvdbdtvwmywwd5g9pk"><img src="https://img.shields.io/badge/ASOO-E4405F?style=flat&logo=spotify&logoColor=white"/></a> &nbsp;
+
+
