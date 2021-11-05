@@ -11,7 +11,7 @@
 
 ### 📫 Official Account 
 <a href="https://instagram.com/onr_ardaa"><img src="https://img.shields.io/badge/onr_ardaa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://Twitter.com/onr_arda"><img src="https://img.shields.io/badge/onr_arda-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://Twitter.com/onr_arda"><img src="https://img.shields.io/badge/onr_arda-E4405F?style=flat&logo=Twitter&logoColor=white"/></a> &nbsp;
 <a href="https://open.spotify.com/user/0eg0r3cyvdbdtvwmywwd5g9pk"><img src="https://img.shields.io/badge/ASOO-E4405F?style=flat&logo=spotify&logoColor=white"/></a> &nbsp;
 
 
