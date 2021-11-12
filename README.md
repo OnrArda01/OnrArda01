@@ -3,8 +3,8 @@
 ![profile count](https://komarev.com/ghpvc/?username=ASOOjs&color=blue)&nbsp;
 
 ### 🛠 &nbsp;Software Languages 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
-![Java](https://img.shields.io/badge/-Java-ff3eef?style=flat&logo=Java)&nbsp; 
+![JavaScript](https://img.shields.io/badge/-JavaScript-ff0000?style=flat&logo=javascript)&nbsp; 
+![Java](https://img.shields.io/badge/-Java-ff0000?style=flat&logo=Java)&nbsp; 
 [![GitHub ASOOjs](https://img.shields.io/github/followers/ASOOjs?label=follow&style=social)](https://github.com/ASOOjs)&nbsp;
 
 ### 🌟 Official Discord Account 
