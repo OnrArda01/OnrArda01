@@ -5,7 +5,7 @@
 ### 🛠 &nbsp;Software Languages 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-020036?style=flat&logo=javascript)&nbsp; 
 ![Java](https://img.shields.io/badge/-Java-020000?style=flat&logo=Java)&nbsp; 
-![HTML](https://img.shields.io/badge/-Html-020036?style=flat&logo=html)&nbsp; 
+![HTML](https://img.shields.io/badge/-HTML-020036?style=flat&logo=html)&nbsp; 
 [![GitHub ASOOjs](https://img.shields.io/github/followers/ASOOjs?label=follow&style=social)](https://github.com/ASOOjs)&nbsp;
 
 ### 🌟 Official Discord Account 
