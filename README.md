@@ -1,9 +1,6 @@
 ### 📛 Hello I'm ASOO 
 [![GitHub ASOOjs](https://img.shields.io/github/followers/ASOOjs)](https://github.com/ASOOjs)&nbsp; 
 ![profile count](https://komarev.com/ghpvc/?username=ASOOjs&color=blue)&nbsp;
-
-### 🛠 &nbsp;Software Languages 
-![JavaScript](https://img.shields.io/badge/-JavaScript-020036?style=flat&logo=javascript)&nbsp; 
 [![GitHub ASOOjs](https://img.shields.io/github/followers/ASOOjs?label=follow&style=social)](https://github.com/ASOOjs)&nbsp;
 
 ### 🌟 Official Discord Account 
