@@ -7,17 +7,7 @@
 <br/>
 
 ### 👨🏻‍💻 Technologies I Work With:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; 
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp; 
-  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PhP)&nbsp; 
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PhP) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB) </div>
 
 <br/>
 
