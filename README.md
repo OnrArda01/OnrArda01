@@ -1,21 +1,28 @@
 ### ❔ Hello, I'm Onur
 
-👋 I'm passionate about web design and love creating beautiful experiences online.
-💻 Currently, I'm a Full-Stack Web Developer, constantly learning and exploring new technologies.
-✨ Exciting website codes and projects are coming your way soon!
+❔ Hello, I'm Onur
+📱 Currently, I am working as a Software Development Assistant at Eroğlu Holding, specializing as a Mobile Developer.
+🔧 In addition, I am actively engaged in .NET projects to broaden my skill set.
+🎨 I have a passion for web design and enjoy creating visually appealing websites as a hobby.
+💡 I thrive on tackling new challenges in software development and am committed to continuous learning.
+🤝 I enjoy collaborating with teams and believe that sharing knowledge is key to growth.
+🌐 In my free time, I like to explore new technologies and frameworks to stay updated in this ever-evolving field.
+🚀 Soon, I will be sharing some exciting website codes and projects that I've been working on!
 
 <br/>
 
 ### 👨🏻‍💻 Technologies I Work With:
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PhP)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+<div style="display: flex; flex-wrap: wrap; gap: 10px; font-family: Arial, sans-serif;">
+    <span style="background-color: #F7DF1E; padding: 8px 12px; border-radius: 5px; color: #05122A; font-weight: bold;">HTML</span>
+    <span style="background-color: #1572B6; padding: 8px 12px; border-radius: 5px; color: white; font-weight: bold;">CSS</span>
+    <span style="background-color: #CC6699; padding: 8px 12px; border-radius: 5px; color: white; font-weight: bold;">SASS</span>
+    <span style="background-color: #61DAFB; padding: 8px 12px; border-radius: 5px; color: #05122A; font-weight: bold;">React</span>
+    <span style="background-color: #F7DF1E; padding: 8px 12px; border-radius: 5px; color: #05122A; font-weight: bold;">JavaScript</span>
+    <span style="background-color: #007ACC; padding: 8px 12px; border-radius: 5px; color: white; font-weight: bold;">TypeScript</span>
+    <span style="background-color: #8993BE; padding: 8px 12px; border-radius: 5px; color: white; font-weight: bold;">PHP</span>
+    <span style="background-color: #8CC84B; padding: 8px 12px; border-radius: 5px; color: white; font-weight: bold;">Node.js</span>
+    <span style="background-color: #47A248; padding: 8px 12px; border-radius: 5px; color: white; font-weight: bold;">MongoDB</span>
+</div>
 
 <br/>
 
