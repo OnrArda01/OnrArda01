@@ -1,13 +1,13 @@
 ### ❔ Hello, I'm Onur
 
 ❔ Hello, I'm Onur
-📱 Currently, I am working as a Software Development Assistant at Eroğlu Holding, specializing as a Mobile Developer.
-🔧 In addition, I am actively engaged in .NET projects to broaden my skill set.
-🎨 I have a passion for web design and enjoy creating visually appealing websites as a hobby.
-💡 I thrive on tackling new challenges in software development and am committed to continuous learning.
-🤝 I enjoy collaborating with teams and believe that sharing knowledge is key to growth.
-🌐 In my free time, I like to explore new technologies and frameworks to stay updated in this ever-evolving field.
-🚀 Soon, I will be sharing some exciting website codes and projects that I've been working on!
+📱 Currently, I am working as a Software Development Assistant at Eroğlu Holding, specializing as a Mobile Developer.<br>
+🔧 In addition, I am actively engaged in .NET projects to broaden my skill set.<br>
+🎨 I have a passion for web design and enjoy creating visually appealing websites as a hobby.<br>
+💡 I thrive on tackling new challenges in software development and am committed to continuous learning.<br>
+🤝 I enjoy collaborating with teams and believe that sharing knowledge is key to growth.<br>
+🌐 In my free time, I like to explore new technologies and frameworks to stay updated in this ever-evolving field.<br>
+🚀 Soon, I will be sharing some exciting website codes and projects that I've been working on!<br>
 
 <br/>
 
