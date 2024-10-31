@@ -13,15 +13,15 @@
 
 ### 👨🏻‍💻 Technologies I Work With:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; font-family: Arial, sans-serif;">
-    <span style="background-color: #F7DF1E; padding: 8px 12px; border-radius: 5px; color: #05122A; font-weight: bold;">HTML</span>
-    <span style="background-color: #1572B6; padding: 8px 12px; border-radius: 5px; color: white; font-weight: bold;">CSS</span>
-    <span style="background-color: #CC6699; padding: 8px 12px; border-radius: 5px; color: white; font-weight: bold;">SASS</span>
-    <span style="background-color: #61DAFB; padding: 8px 12px; border-radius: 5px; color: #05122A; font-weight: bold;">React</span>
-    <span style="background-color: #F7DF1E; padding: 8px 12px; border-radius: 5px; color: #05122A; font-weight: bold;">JavaScript</span>
-    <span style="background-color: #007ACC; padding: 8px 12px; border-radius: 5px; color: white; font-weight: bold;">TypeScript</span>
-    <span style="background-color: #8993BE; padding: 8px 12px; border-radius: 5px; color: white; font-weight: bold;">PHP</span>
-    <span style="background-color: #8CC84B; padding: 8px 12px; border-radius: 5px; color: white; font-weight: bold;">Node.js</span>
-    <span style="background-color: #47A248; padding: 8px 12px; border-radius: 5px; color: white; font-weight: bold;">MongoDB</span>
+    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML Badge"/>
+    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS Badge"/>
+    <img src="https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS" alt="SASS Badge"/>
+    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript Badge"/>
+    <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PhP" alt="PHP Badge"/>
+    <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js Badge"/>
+    <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" alt="MongoDB Badge"/>
 </div>
 
 <br/>
