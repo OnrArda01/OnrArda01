@@ -12,16 +12,18 @@
 <br/>
 
 ### 👨🏻‍💻 Technologies I Work With:
-<div style="display: flex; flex-wrap: wrap; gap: 10px; font-family: Arial, sans-serif;">
-    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React Badge"/>
-    <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript Badge"/>
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript Badge"/>
-    <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PhP" alt="PHP Badge"/>
-    <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js Badge"/>
-    <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" alt="MongoDB Badge"/>
-    <img src="https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=microsoftsqlserver" alt="MSSQL Badge"/>
-
-</div>
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)&nbsp;
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 
 <br/>
 
