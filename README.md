@@ -13,15 +13,14 @@
 
 ### 👨🏻‍💻 Technologies I Work With:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; font-family: Arial, sans-serif;">
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML Badge"/>
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS Badge"/>
-    <img src="https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS" alt="SASS Badge"/>
     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React Badge"/>
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript Badge"/>
     <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript Badge"/>
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript Badge"/>
     <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PhP" alt="PHP Badge"/>
     <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js Badge"/>
     <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" alt="MongoDB Badge"/>
+    <img src="https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=microsoftsqlserver" alt="MSSQL Badge"/>
+
 </div>
 
 <br/>
